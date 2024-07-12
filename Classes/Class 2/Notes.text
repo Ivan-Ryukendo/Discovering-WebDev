@@ -1,0 +1,10 @@
+Tr = Table Row
+Td = Table Data
+
+<body>
+    <table>
+        <tr>
+            <td></td>
+        </tr>
+    </table>
+</body>
